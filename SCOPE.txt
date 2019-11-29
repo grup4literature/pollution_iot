@@ -1,0 +1,12 @@
+Topic :
+Pollution Monitoring and Controlling System using IoT
+
+Scope :
+- How the Pollution Controlling work
+
+
+Anggota Kelompok :
+- Gerry Gahara
+- Akza Noprian
+- Agung Purwanto
+- Rendi Irawan
